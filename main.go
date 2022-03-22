@@ -183,7 +183,7 @@ func main() {
 
 		
 
-		"https://iptvcat.com/united_kingdom",
+		"https://iptvcat.com/undefined",
 		}
 
 	for _, element := range urlList {
